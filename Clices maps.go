@@ -45,4 +45,5 @@ func main() {
 	}
 	
 	fmt.Println(len(likes["bacon"]), "people like bacon.")
+	fmt.Println(len(likes["bacon"]), "people like bacon.")
 }
